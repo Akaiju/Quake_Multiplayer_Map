@@ -1,0 +1,7 @@
+// Game: Quake
+// Format: Standard
+// entity 0
+{
+"classname" "worldspawn"
+"wad" "C:/Users/jackb/Documents/quake-leveldesign-starterkit-master/wads/START.WAD;wads/prototype_1_2.wad"
+}

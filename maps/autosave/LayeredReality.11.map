@@ -1,0 +1,16 @@
+// Game: Quake
+// Format: Standard
+// entity 0
+{
+"classname" "worldspawn"
+"wad" "C:/Users/jackb/Documents/quake-leveldesign-starterkit-master/wads/START.WAD;wads/prototype_1_2.wad"
+// brush 0
+{
+( -0 32 -8 ) ( -0 33 -8 ) ( -0 32 -7 ) 128_grey_2 -0 32 -0 1 1
+( -8 -0 -8 ) ( -8 -0 -7 ) ( -7 -0 -8 ) 128_grey_2 64 32 -0 1 1
+( -8 32 -8 ) ( -7 32 -8 ) ( -8 33 -8 ) 128_grey_2 64 -0 -0 1 1
+( 288 208 -0 ) ( 288 209 -0 ) ( 289 208 -0 ) 128_grey_2 64 -0 -0 1 1
+( 288 320 -0 ) ( 289 320 -0 ) ( 288 320 1 ) 128_grey_2 64 32 -0 1 1
+( 896 208 -0 ) ( 896 208 1 ) ( 896 209 -0 ) 128_grey_2 -0 32 -0 1 1
+}
+}
