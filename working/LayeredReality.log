@@ -1,0 +1,71 @@
+---- qbsp / ericw-tools v0.18.1 ----
+Input file: LayeredReality.map
+Output file: LayeredReality.bsp
+
+---- LoadMapFile ----
+*** WARNING 05: No info_player_start entity in level
+          990 faces
+          162 brushes
+           15 entities
+            7 unique texnames
+          278 texinfo
+
+Opened WAD: C:/Users/jackb/Documents/quake-leveldesign-starterkit-master/wads/START.WAD
+Processing hull 0...
+---- Brush_LoadEntity ----
+          162 brushes
+          232 planes
+---- CSGFaces ----
+          990 brushfaces
+          929 csgfaces
+          839 mergedfaces
+---- SolidBSP ----
+         1390 split nodes
+          508 solid leafs
+          826 empty leafs
+           57 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+         4004 leaffaces
+         3755 nodefaces
+---- Portalize ----
+          883 vis leafs
+          883 vis clusters
+         2696 vis portals
+---- FillOutside ----
+*** WARNING 10: Reached occupant at (-240 -1776 712), no filling performed.
+Leak file written to LayeredReality.pts
+---- MakeFaceEdges ----
+---- GrowRegions ----
+Processing hull 1...
+*** WARNING 10: Reached occupant at (1584 -1760 808), no filling performed.
+Processing hull 2...
+*** WARNING 10: Reached occupant at (1584 -1760 808), no filling performed.
+*** WARNING 16: Texture 128_grey_2 not found
+*** WARNING 16: Texture 128_honey_3 not found
+*** WARNING 16: Texture *lava_64_3 not found
+*** WARNING 16: Texture 128_grey_3 not found
+*** WARNING 16: Texture 128_brown_2 not found
+*** WARNING 16: Texture 128_cyan_3 not found
+*** WARNING 16: Texture 128_blood_3 not found
+---- WriteBSPFile ----
+Wrote LayeredReality.bsp
+          536 planes            10720
+         4529 vertexes          54348
+         1390 nodes             33360
+          244 texinfo            9760
+         3755 faces             75100
+         2922 clipnodes         23376
+          884 leafs             24752
+         4004 marksurfaces       8008
+        15013 surfedges         60052
+         9422 edges             37688
+            7 textures             32
+              lightdata             0
+              visdata               0
+              entdata             863
+
+0.301 seconds elapsed
+Peak memory usage: 17401112 (16.6M)

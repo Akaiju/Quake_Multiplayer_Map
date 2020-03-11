@@ -1,29 +1,29 @@
 @echo off
 
 cd\
-cd C:\Users\jackb\Documents\quake-leveldesign-starterkit-master
+cd C:\Users\jackb\Desktop\Quake_Multiplayer_Map
 
 
 echo Copying Files...
-copy C:\Users\jackb\Documents\quake-leveldesign-starterkit-master\id1\maps\DemoMap.map C:\Users\jackb\Documents\quake-leveldesign-starterkit-master
+copy C:\Users\jackb\Desktop\Quake_Multiplayer_Map\maps\LayeredReality.map C:\Users\jackb\Desktop\Quake_Multiplayer_Map
 
 
 echo Converting map...
 
 
 echo --------------QBSP--------------
-C:\Users\jackb\Documents\quake-leveldesign-starterkit-master\tools\ericw-tools\bin\qbsp.exe DemoMap
+C:\Users\jackb\Desktop\Quake_Multiplayer_Map\tools\ericw-tools\bin\qbsp.exe LayeredReality
 
 echo --------------VIS---------------
-C:\Users\jackb\Documents\quake-leveldesign-starterkit-master\tools\ericw-tools\bin\vis.exe DemoMap
+C:\Users\jackb\Desktop\Quake_Multiplayer_Map\tools\ericw-tools\bin\vis.exe LayeredReality
 
 echo -------------LIGHT--------------
-C:\Users\jackb\Documents\quake-leveldesign-starterkit-master\tools\ericw-tools\bin\light.exe DemoMap
+C:\Users\jackb\Desktop\Quake_Multiplayer_Map\tools\ericw-tools\bin\light.exe LayeredReality
 
-copy DemoMap.bsp C:\Users\jackb\Documents\quake-leveldesign-starterkit-master\id1\maps
-copy DemoMap.pts C:\Users\jackb\Documents\quake-leveldesign-starterkit-master\id1\maps
-copy DemoMap.lit C:\Users\jackb\Documents\quake-leveldesign-starterkit-master\id1\maps
+copy LayeredReality.bsp C:\Users\jackb\Desktop\Quake_Multiplayer_Map\id1\maps
+copy LayeredReality.pts C:\Users\jackb\Desktop\Quake_Multiplayer_Map\id1\maps
+copy LayeredReality.lit C:\Users\jackb\Desktop\Quake_Multiplayer_Map\id1\maps
 pause
 cd\
-cd C:\Users\jackb\Documents\quake-leveldesign-starterkit-master
-quakespasm  +map DemoMap
+cd C:\Users\jackb\Desktop\Quake_Multiplayer_Map
+quakespasm  +map LayeredReality
