@@ -3,5 +3,15 @@ running with 8 threads
 testlevel = 4
 LoadBSPFile: 'LayeredReality.bsp'
 BSP is version 29
-LoadPortals: couldn't read LayeredReality.prt
-No vising performed.
+   428 leafs
+  1463 portals
+Calculating Base Vis:
+0....1....2....3....4....5....6....7....8....9....
+Calculating Full Vis:
+0....1....2....3....4....5....6....7....8....9....
+average leafs visible: 270
+c_noclip: 0
+c_chains: 8264811
+visdatasize:21484  compressed from 23112
+Writing LayeredReality.bsp as BSP version 29
+  6.5 seconds elapsed

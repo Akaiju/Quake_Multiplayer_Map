@@ -3,69 +3,82 @@ Input file: LayeredReality.map
 Output file: LayeredReality.bsp
 
 ---- LoadMapFile ----
-*** WARNING 05: No info_player_start entity in level
-          990 faces
-          162 brushes
-           15 entities
-            7 unique texnames
-          278 texinfo
+         1008 faces
+          165 brushes
+           16 entities
+            8 unique texnames
+          291 texinfo
 
 Opened WAD: C:/Users/jackb/Documents/quake-leveldesign-starterkit-master/wads/START.WAD
+Opened WAD: ../wads/prototype_1_2.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-          162 brushes
-          232 planes
+          165 brushes
+          235 planes
 ---- CSGFaces ----
-          990 brushfaces
-          929 csgfaces
-          839 mergedfaces
+         1008 brushfaces
+          960 csgfaces
+          853 mergedfaces
 ---- SolidBSP ----
-         1390 split nodes
-          508 solid leafs
-          826 empty leafs
-           57 water leafs
+         1421 split nodes
+          555 solid leafs
+          822 empty leafs
+           45 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         4004 leaffaces
-         3755 nodefaces
+         4274 leaffaces
+         4017 nodefaces
 ---- Portalize ----
-          883 vis leafs
-          883 vis clusters
-         2696 vis portals
+          867 vis leafs
+          867 vis clusters
+         2567 vis portals
 ---- FillOutside ----
-*** WARNING 10: Reached occupant at (-240 -1776 712), no filling performed.
-Leak file written to LayeredReality.pts
+          329 outleafs
+---- MergeAll ----
+          825 mergefaces
+---- SolidBSP ----
+          751 split nodes
+          324 solid leafs
+          413 empty leafs
+           15 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+         2697 leaffaces
+         2350 nodefaces
+---- Portalize ----
+          428 vis leafs
+          428 vis clusters
+         1463 vis portals
+---- Tjunc ----
+         1559 world edges
+         7503 edge points
+         1652 edges added by tjunctions
+            0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
 Processing hull 1...
-*** WARNING 10: Reached occupant at (1584 -1760 808), no filling performed.
 Processing hull 2...
-*** WARNING 10: Reached occupant at (1584 -1760 808), no filling performed.
-*** WARNING 16: Texture 128_grey_2 not found
-*** WARNING 16: Texture 128_honey_3 not found
-*** WARNING 16: Texture *lava_64_3 not found
-*** WARNING 16: Texture 128_grey_3 not found
-*** WARNING 16: Texture 128_brown_2 not found
-*** WARNING 16: Texture 128_cyan_3 not found
-*** WARNING 16: Texture 128_blood_3 not found
+*** WARNING 16: Texture __TB_empty not found
 ---- WriteBSPFile ----
 Wrote LayeredReality.bsp
-          536 planes            10720
-         4529 vertexes          54348
-         1390 nodes             33360
-          244 texinfo            9760
-         3755 faces             75100
-         2922 clipnodes         23376
-          884 leafs             24752
-         4004 marksurfaces       8008
-        15013 surfedges         60052
-         9422 edges             37688
-            7 textures             32
+          504 planes            10080
+         3051 vertexes          36612
+          751 nodes             18024
+          239 texinfo            9560
+         2350 faces             47000
+         2101 clipnodes         16808
+          429 leafs             12012
+         2697 marksurfaces       5394
+        11040 surfedges         44160
+         5521 edges             22084
+            8 textures         136316
               lightdata             0
               visdata               0
-              entdata             863
+              entdata             969
 
-0.301 seconds elapsed
-Peak memory usage: 17401112 (16.6M)
+0.357 seconds elapsed
+Peak memory usage: 13509310 (12.9M)
