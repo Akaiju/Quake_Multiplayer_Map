@@ -3,82 +3,81 @@ Input file: LayeredReality.map
 Output file: LayeredReality.bsp
 
 ---- LoadMapFile ----
-         1596 faces
-          265 brushes
+         1878 faces
+          309 brushes
            64 entities
-            9 unique texnames
-          343 texinfo
+           29 unique texnames
+          409 texinfo
 
 Opened WAD: C:/Users/jackb/Documents/quake-leveldesign-starterkit-master/wads/START.WAD
 Opened WAD: ../wads/prototype_1_2.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-          259 brushes
-          429 planes
+          309 brushes
+          532 planes
 ---- CSGFaces ----
-         1560 brushfaces
-         1509 csgfaces
-         1366 mergedfaces
+         1878 brushfaces
+         1912 csgfaces
+         1753 mergedfaces
 ---- SolidBSP ----
-         2162 split nodes
-          818 solid leafs
-         1280 empty leafs
-           65 water leafs
+         2692 split nodes
+          959 solid leafs
+         1610 empty leafs
+          124 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         5494 leaffaces
-         5241 nodefaces
+         6609 leaffaces
+         6129 nodefaces
 ---- Portalize ----
-         1345 vis leafs
-         1345 vis clusters
-         4454 vis portals
+         1734 vis leafs
+         1734 vis clusters
+         6023 vis portals
 ---- FillOutside ----
-          402 outleafs
+          458 outleafs
 ---- MergeAll ----
-         1341 mergefaces
+         1764 mergefaces
 ---- SolidBSP ----
-          968 split nodes
-          395 solid leafs
-          561 empty leafs
-           13 water leafs
+         1211 split nodes
+          460 solid leafs
+          721 empty leafs
+           31 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         3502 leaffaces
-         2913 nodefaces
+         4113 leaffaces
+         3404 nodefaces
 ---- Portalize ----
-          574 vis leafs
-          574 vis clusters
-         2051 vis portals
+          752 vis leafs
+          752 vis clusters
+         3200 vis portals
 ---- Tjunc ----
-         2273 world edges
-         9688 edge points
-         2264 edges added by tjunctions
+         2749 world edges
+        11297 edge points
+         2887 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
 Processing hull 1...
 Processing hull 2...
-*** WARNING 16: Texture __TB_empty not found
 ---- WriteBSPFile ----
 Wrote LayeredReality.bsp
-          883 planes            17660
-         3842 vertexes          46104
-          968 nodes             23232
-          251 texinfo           10040
-         2913 faces             58260
-         5170 clipnodes         41360
-          575 leafs             16100
-         3502 marksurfaces       7004
-        13890 surfedges         55560
-         6946 edges             27784
-            9 textures         141800
+         1143 planes            22860
+         4440 vertexes          53280
+         1211 nodes             29064
+          300 texinfo           12000
+         3404 faces             68080
+         5689 clipnodes         45512
+          753 leafs             21084
+         4113 marksurfaces       8226
+        16422 surfedges         65688
+         8212 edges             32848
+           30 textures         287020
               lightdata             0
               visdata               0
-              entdata            4049
+              entdata            4069
 
-0.547 seconds elapsed
-Peak memory usage: 22715412 (21.7M)
+0.779 seconds elapsed
+Peak memory usage: 25700170 (24.5M)
