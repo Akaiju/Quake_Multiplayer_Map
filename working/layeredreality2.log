@@ -1,6 +1,6 @@
 ---- qbsp / ericw-tools v0.18.1 ----
-Input file: layeredreality.map
-Output file: layeredreality.bsp
+Input file: layeredreality2.map
+Output file: layeredreality2.bsp
 
 ---- LoadMapFile ----
          1878 faces
@@ -63,7 +63,7 @@ Processing hull 0...
 Processing hull 1...
 Processing hull 2...
 ---- WriteBSPFile ----
-Wrote layeredreality.bsp
+Wrote layeredreality2.bsp
          1143 planes            22860
          4448 vertexes          53376
          1211 nodes             29064
@@ -79,5 +79,5 @@ Wrote layeredreality.bsp
               visdata               0
               entdata            4066
 
-0.613 seconds elapsed
+0.670 seconds elapsed
 Peak memory usage: 25705896 (24.5M)
