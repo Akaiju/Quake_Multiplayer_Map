@@ -675,13 +675,13 @@
 }
 // brush 74
 {
-( -288 -0 688 ) ( -288 -0 672 ) ( -288 288 512 ) rock4_1 -0 -48 -0 1 1
+( -288 -0 672 ) ( -288 288 544 ) ( -288 288 688 ) rock4_1 -0 -48 -0 1 1
 ( -288 -0 688 ) ( 1360 -0 688 ) ( 1360 -0 672 ) rock4_1 64 -48 -0 1 1
-( 1360 -0 672 ) ( 1632 288 512 ) ( -288 288 512 ) rock4_1 64 -0 -0 1 1
+( 1632 288 544 ) ( -288 288 544 ) ( -288 -0 672 ) rock4_1 64 -0 -0 1 1
 ( 1360 288 688 ) ( 1360 -0 688 ) ( -288 -0 688 ) m5_3 -0 64 270 1 1
-( 1632 288 512 ) ( 1360 288 688 ) ( -288 288 688 ) rock4_1 32.8 -33.4546 -0 1.1215 11
-( 1632 288 512 ) ( 1360 -0 688 ) ( 1360 288 688 ) rock4_1 -115.871 -27.1073 90 1 1.97749
-( 1360 -0 672 ) ( 1360 -0 688 ) ( 1632 288 512 ) rock4_1 -2.05066 -47.9433 353.66 1.00615 0.996923
+( 1632 288 544 ) ( 1360 288 688 ) ( -288 288 688 ) rock4_1 32.8 -19.5556 -0 1.1215 9
+( 1632 288 544 ) ( 1360 -0 688 ) ( 1360 288 688 ) rock4_1 -115.871 -27.1073 90 1 1.97749
+( 1360 -0 672 ) ( 1360 -0 688 ) ( 1632 288 544 ) rock4_1 -0 -48 -0 1 1
 }
 // brush 75
 {
@@ -747,14 +747,14 @@
 }
 // brush 81
 {
-( -0 -1536 688 ) ( -288 -1824 512 ) ( -0 -1536 672 ) rock4_1 -80.4118 122.211 6.34019 1.00615 0.996923
-( -0 -1824 688 ) ( -288 -1824 512 ) ( -0 -1536 688 ) rock4_1 -46.8553 -76.653 90 1 -2.10661
-( 1632 -1824 512 ) ( -288 -1824 512 ) ( -0 -1824 688 ) rock4_1 109.62 -33.4429 -0 1.10695 11.0127
+( -0 -1536 688 ) ( -288 -1824 544 ) ( -0 -1536 672 ) rock4_1 -64 -48 -0 1 1
+( -0 -1824 688 ) ( -288 -1824 544 ) ( -0 -1536 688 ) rock4_1 -46.8553 -76.653 90 1 -2.10661
+( 1632 -1824 544 ) ( -288 -1824 544 ) ( -0 -1824 688 ) rock4_1 109.62 -19.5599 -0 1.10695 9.01035
 ( 1360 -1824 688 ) ( -0 -1824 688 ) ( -0 -1536 688 ) m5_3 -0 64 270 1 1
-( -0 -1536 672 ) ( -288 -1824 512 ) ( 1632 -1824 512 ) rock4_1 86.2148 -61.4247 -0 1.18111 1.0051
+( -0 -1536 672 ) ( -288 -1824 544 ) ( 1632 -1824 544 ) rock4_1 86.2148 -61.4247 -0 1.18111 1.0051
 ( 1360 -1536 688 ) ( -0 -1536 688 ) ( -0 -1536 672 ) rock4_1 64 -48 -0 1 1
-( 1360 -1824 688 ) ( 1360 -1536 688 ) ( 1632 -1824 512 ) rock4_1 -64.457 100.528 90 1 1.96309
-( 1360 -1536 688 ) ( 1360 -1536 672 ) ( 1632 -1824 512 ) rock4_1 49.7712 122.271 6.34019 1.00615 0.996923
+( 1360 -1824 688 ) ( 1360 -1536 688 ) ( 1632 -1824 544 ) rock4_1 -64.457 100.528 90 1 1.96309
+( 1360 -1536 688 ) ( 1360 -1536 672 ) ( 1632 -1824 544 ) rock4_1 63.9999 -48 -0 1 1
 }
 // brush 82
 {
@@ -776,12 +776,12 @@
 }
 // brush 84
 {
-( -288 -1824 512 ) ( -288 288 512 ) ( -288 -0 688 ) rock4_1 -27.4645 -33.4546 180 1.05833 -11
-( -0 -1824 688 ) ( -0 -1824 672 ) ( -288 -1824 512 ) rock4_1 -64 -48 -0 1 1
+( -288 -1824 544 ) ( -288 288 544 ) ( -288 -0 688 ) rock4_1 -27.4645 -19.5556 180 1.05833 -9
+( -0 -1824 688 ) ( -0 -1824 672 ) ( -288 -1824 544 ) rock4_1 -64 -48 -0 1 1
 ( -0 -0 688 ) ( -0 -1824 688 ) ( -288 -1824 688 ) m5_3 -0 64 270 1 1
-( -288 -0 688 ) ( -288 288 512 ) ( -0 -0 688 ) rock4_1 -6.0734 70.6148 -0 1 -67.4892
-( -0 -1824 672 ) ( -0 -0 672 ) ( -288 288 512 ) rock4_1 17.4544 -61.8298 270 1.09239 1.00729
-( -288 288 512 ) ( -0 -0 672 ) ( -0 -0 688 ) rock4_1 -64 -48 173.66 1.13192 -0.996923
+( -288 -0 688 ) ( -288 288 544 ) ( -0 -0 688 ) rock4_1 -6.0734 70.6148 -0 1 -67.4892
+( -0 -1824 672 ) ( -0 -0 672 ) ( -288 288 544 ) rock4_1 17.4544 -61.8298 270 1.09239 1.00729
+( -288 288 544 ) ( -0 -0 672 ) ( -0 -0 688 ) rock4_1 -64 -48 180 1.125 -1
 ( -0 -0 688 ) ( -0 -0 672 ) ( -0 -1824 672 ) rock4_1 -0 -48 180 1 -1
 }
 // brush 85
@@ -1848,11 +1848,11 @@
 // brush 204
 {
 ( 1360 288 672 ) ( 1360 288 688 ) ( 1360 -1824 688 ) rock4_1 -64 -48 180 1 -1
-( 1360 -1824 672 ) ( 1632 -1824 512 ) ( 1632 288 512 ) rock4_1 -64 -48 270 1 1
-( 1632 -1824 688 ) ( 1632 -1824 512 ) ( 1360 -1824 672 ) rock4_1 48 -48 -0 1 1
+( 1360 -1824 672 ) ( 1632 -1824 544 ) ( 1632 288 544 ) rock4_1 -64 -48 270 1 1
+( 1632 -1824 688 ) ( 1632 -1824 544 ) ( 1360 -1824 672 ) rock4_1 48 -48 -0 1 1
 ( 1632 288 688 ) ( 1632 -1824 688 ) ( 1360 -1824 688 ) m5_3 -0 64 270 1 1
-( 1632 288 512 ) ( 1632 288 688 ) ( 1360 288 688 ) rock4_1 48 -48 -0 1 1
-( 1632 288 512 ) ( 1632 -1824 512 ) ( 1632 -1824 688 ) rock4_1 -64 -33.4546 180 1 -11
+( 1632 288 544 ) ( 1632 288 688 ) ( 1360 288 688 ) rock4_1 48 -48 -0 1 1
+( 1632 288 544 ) ( 1632 -1824 544 ) ( 1632 -1824 688 ) rock4_1 -64 -19.5556 180 1 -9
 }
 // brush 205
 {
@@ -2866,210 +2866,240 @@
 // entity 11
 {
 "classname" "item_rockets"
-"origin" "560 -848 592"
+"origin" "752 -848 592"
 }
 // entity 12
+{
+"classname" "item_rockets"
+"origin" "560 -848 592"
+}
+// entity 13
 {
 "classname" "item_spikes"
 "origin" "928 240 -0"
 }
-// entity 13
+// entity 14
 {
 "classname" "weapon_nailgun"
 "origin" "1048 256 -0"
 }
-// entity 14
+// entity 15
 {
 "classname" "weapon_nailgun"
 "origin" "288 -1784 -0"
 }
-// entity 15
+// entity 16
 {
 "classname" "item_spikes"
 "origin" "176 -1808 -0"
 }
-// entity 16
+// entity 17
 {
 "classname" "item_spikes"
 "origin" "784 64 688"
 }
-// entity 17
+// entity 18
 {
 "classname" "item_health"
 "origin" "816 64 688"
 }
-// entity 18
+// entity 19
 {
 "classname" "item_shells"
 "origin" "864 64 688"
 }
-// entity 19
+// entity 20
 {
 "classname" "item_health"
 "origin" "512 64 688"
 }
-// entity 20
+// entity 21
 {
 "classname" "item_shells"
 "origin" "464 64 688"
 }
-// entity 21
+// entity 22
 {
 "classname" "item_spikes"
 "origin" "544 64 688"
 }
-// entity 22
+// entity 23
 {
 "classname" "item_health"
 "origin" "1440 224 304"
 }
-// entity 23
+// entity 24
 {
 "classname" "item_health"
 "origin" "1552 224 304"
 }
-// entity 24
+// entity 25
 {
 "classname" "item_health"
 "origin" "-128 224 304"
 }
-// entity 25
+// entity 26
 {
 "classname" "item_health"
 "origin" "-240 224 304"
 }
-// entity 26
-{
-"classname" "item_spikes"
-"origin" "-272 -1648 304"
-}
 // entity 27
 {
-"classname" "item_spikes"
-"origin" "-272 -1584 304"
+"classname" "item_rockets"
+"origin" "576 -1824 304"
 }
 // entity 28
 {
-"classname" "item_spikes"
-"origin" "1584 -1648 304"
+"classname" "item_rockets"
+"origin" "720 -1824 304"
 }
 // entity 29
 {
 "classname" "item_spikes"
-"origin" "1584 -1584 304"
+"origin" "-272 -1648 304"
 }
 // entity 30
 {
-"classname" "weapon_supernailgun"
-"origin" "640 -784 -96"
+"classname" "item_spikes"
+"origin" "-272 -1584 304"
 }
 // entity 31
 {
 "classname" "item_spikes"
-"origin" "512 -648 -96"
+"origin" "-272 -1520 304"
 }
 // entity 32
 {
 "classname" "item_spikes"
-"origin" "552 -648 -96"
+"origin" "1584 -1648 304"
 }
 // entity 33
 {
 "classname" "item_spikes"
-"origin" "464 -1032 -96"
+"origin" "1584 -1584 304"
 }
 // entity 34
 {
 "classname" "item_spikes"
-"origin" "424 -1032 -96"
+"origin" "1584 -1520 304"
 }
 // entity 35
 {
-"classname" "item_spikes"
-"origin" "808 -472 -96"
+"classname" "weapon_supernailgun"
+"origin" "640 -784 -96"
 }
 // entity 36
 {
 "classname" "item_spikes"
-"origin" "768 -472 -96"
+"origin" "512 -648 -96"
 }
 // entity 37
 {
 "classname" "item_spikes"
-"origin" "792 -1104 -96"
+"origin" "552 -648 -96"
 }
 // entity 38
 {
 "classname" "item_spikes"
-"origin" "752 -1104 -96"
+"origin" "464 -1032 -96"
 }
 // entity 39
+{
+"classname" "item_spikes"
+"origin" "424 -1032 -96"
+}
+// entity 40
+{
+"classname" "item_spikes"
+"origin" "808 -472 -96"
+}
+// entity 41
+{
+"classname" "item_spikes"
+"origin" "768 -472 -96"
+}
+// entity 42
+{
+"classname" "item_spikes"
+"origin" "792 -1104 -96"
+}
+// entity 43
+{
+"classname" "item_spikes"
+"origin" "752 -1104 -96"
+}
+// entity 44
 {
 "classname" "weapon_nailgun"
 "origin" "1056 -1784 -0"
 "angle" "180"
 }
-// entity 40
+// entity 45
 {
 "classname" "item_spikes"
 "origin" "1152 -1808 -0"
 }
-// entity 41
+// entity 46
 {
 "classname" "item_spikes"
 "origin" "384 240 -0"
 }
-// entity 42
+// entity 47
 {
 "classname" "weapon_nailgun"
 "origin" "296 248 -0"
 }
-// entity 43
+// entity 48
+{
+"classname" "item_rockets"
+"origin" "560 -736 592"
+}
+// entity 49
 {
 "classname" "item_rockets"
 "origin" "752 -736 592"
 }
-// entity 44
+// entity 50
 {
 "classname" "item_armor2"
 "origin" "672 248 -0"
 }
-// entity 45
+// entity 51
 {
 "classname" "item_armor2"
 "origin" "672 -1784 -0"
 }
-// entity 46
+// entity 52
 {
 "classname" "weapon_supershotgun"
 "origin" "672 24 688"
 }
-// entity 47
+// entity 53
 {
 "classname" "item_spikes"
 "origin" "176 240 -0"
 }
-// entity 48
+// entity 54
 {
 "classname" "item_spikes"
 "origin" "1120 240 -0"
 }
-// entity 49
+// entity 55
 {
 "classname" "item_spikes"
 "origin" "384 -1808 -0"
 }
-// entity 50
+// entity 56
 {
 "classname" "item_spikes"
 "origin" "944 -1808 -0"
 }
-// entity 51
+// entity 57
 {
 "classname" "item_health"
 "origin" "-256 -1104 -0"
 }
-// entity 52
+// entity 58
 {
 "classname" "item_health"
 "origin" "-96 -1104 -0"

@@ -3,81 +3,83 @@ Input file: layeredreality2.map
 Output file: layeredreality2.bsp
 
 ---- LoadMapFile ----
-         1878 faces
+         1871 faces
           309 brushes
-           64 entities
-           31 unique texnames
-          420 texinfo
+           53 entities
+           44 unique texnames
+          502 texinfo
 
 Opened WAD: C:/Users/jackb/Documents/quake-leveldesign-starterkit-master/wads/START.WAD
 Opened WAD: ../wads/prototype_1_2.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
           309 brushes
-          532 planes
+          528 planes
 ---- CSGFaces ----
-         1878 brushfaces
-         1912 csgfaces
-         1760 mergedfaces
+         1871 brushfaces
+         1885 csgfaces
+         1809 mergedfaces
 ---- SolidBSP ----
-         2692 split nodes
-          959 solid leafs
-         1610 empty leafs
-          124 water leafs
+         3063 split nodes
+         1094 solid leafs
+         1828 empty leafs
+          142 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         6618 leaffaces
-         6138 nodefaces
+         6759 leaffaces
+         6349 nodefaces
 ---- Portalize ----
-         1734 vis leafs
-         1734 vis clusters
-         6023 vis portals
+         1970 vis leafs
+         1970 vis clusters
+         6669 vis portals
 ---- FillOutside ----
-          458 outleafs
+          478 outleafs
 ---- MergeAll ----
-         1767 mergefaces
+         1870 mergefaces
 ---- SolidBSP ----
-         1211 split nodes
-          460 solid leafs
-          721 empty leafs
-           31 water leafs
+         1449 split nodes
+          535 solid leafs
+          881 empty leafs
+           34 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         4116 leaffaces
-         3407 nodefaces
+         4361 leaffaces
+         3621 nodefaces
 ---- Portalize ----
-          752 vis leafs
-          752 vis clusters
-         3200 vis portals
+          915 vis leafs
+          915 vis clusters
+         3795 vis portals
 ---- Tjunc ----
-         2748 world edges
-        11309 edge points
-         2897 edges added by tjunctions
+         2869 world edges
+        11917 edge points
+         2870 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
 Processing hull 1...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 1)
 Processing hull 2...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 2)
 ---- WriteBSPFile ----
 Wrote layeredreality2.bsp
-         1143 planes            22860
-         4448 vertexes          53376
-         1211 nodes             29064
-          302 texinfo           12080
-         3407 faces             68140
-         5689 clipnodes         45512
-          753 leafs             21084
-         4116 marksurfaces       8232
-        16444 surfedges         65776
-         8223 edges             32892
-           31 textures         310616
+         1149 planes            22980
+         4614 vertexes          55368
+         1449 nodes             34776
+          338 texinfo           13520
+         3621 faces             72420
+         7660 clipnodes         61280
+          916 leafs             25648
+         4361 marksurfaces       8722
+        17278 surfedges         69112
+         8640 edges             34560
+           45 textures         454912
               lightdata             0
               visdata               0
-              entdata            4066
+              entdata            3241
 
-0.670 seconds elapsed
-Peak memory usage: 25705896 (24.5M)
+0.579 seconds elapsed
+Peak memory usage: 30782486 (29.4M)
