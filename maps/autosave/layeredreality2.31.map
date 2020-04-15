@@ -1656,11 +1656,11 @@
 }
 // brush 183
 {
-( -32 -1088 720 ) ( -32 -960 720 ) ( -32 -896 1072 ) wizmet1_1 0 -0 -0 1 1
-( -0 -1152 1072 ) ( -0 -1088 720 ) ( -32 -1088 720 ) wizmet1_1 0 0 -0 1 1
+( -32 -1088 720 ) ( -32 -960 720 ) ( -32 -896 1072 ) 128_honey_3 -1.45154 -0 -0 1 1.00207
+( -0 -1152 1072 ) ( -0 -1088 720 ) ( -32 -1088 720 ) 128_honey_3 3.21626 0.897217 -0 1 1.00621
 ( -32 -1088 720 ) ( -0 -1088 720 ) ( -0 -960 720 ) 128_honey_3 -0 -64 -0 1 1
 ( -0 -1152 1072 ) ( -32 -1152 1072 ) ( -32 -896 1072 ) 128_honey_3 101.908 59.9598 -0 1 2.06368
-( -32 -896 1072 ) ( -32 -960 720 ) ( -0 -960 720 ) wizmet1_1 0 0 -0 1 1
+( -32 -896 1072 ) ( -32 -960 720 ) ( -0 -960 720 ) 128_honey_3 4.13489 -0.552429 -0 1 1.00414
 ( -0 -960 720 ) ( -0 -1088 720 ) ( -0 -1152 1072 ) wizmet1_1 0 0 -0 1 1
 }
 // brush 184
@@ -4107,112 +4107,4 @@
 "origin" "1096 184 264"
 "delay" "1"
 "light" "400"
-}
-// entity 127
-{
-"classname" "light"
-"origin" "696 212 1048"
-"wait" ".5"
-"light" "350"
-"delay" "2"
-"angle" "-0"
-}
-// entity 128
-{
-"classname" "light"
-"origin" "-12 212 1048"
-"wait" ".5"
-"light" "350"
-"delay" "2"
-"angle" "-0"
-}
-// entity 129
-{
-"classname" "light"
-"origin" "1376 212 1048"
-"wait" ".5"
-"light" "350"
-"delay" "2"
-"angle" "-0"
-}
-// entity 130
-{
-"classname" "light"
-"origin" "-12 -1708 1048"
-"wait" ".5"
-"light" "350"
-"delay" "2"
-"angle" "-0"
-}
-// entity 131
-{
-"classname" "light"
-"origin" "696 -1708 1048"
-"wait" ".5"
-"light" "350"
-"delay" "2"
-"angle" "-0"
-}
-// entity 132
-{
-"classname" "light"
-"origin" "1376 -1708 1048"
-"wait" ".5"
-"light" "350"
-"delay" "2"
-"angle" "-0"
-}
-// entity 133
-{
-"classname" "light"
-"origin" "-140 -1284 1048"
-"wait" ".5"
-"light" "350"
-"delay" "2"
-"angle" "90"
-}
-// entity 134
-{
-"classname" "light"
-"origin" "-140 -768 1048"
-"wait" ".5"
-"light" "350"
-"delay" "2"
-"angle" "90"
-}
-// entity 135
-{
-"classname" "light"
-"origin" "-140 -224 1048"
-"wait" ".5"
-"light" "350"
-"delay" "2"
-"angle" "90"
-}
-// entity 136
-{
-"classname" "light"
-"origin" "1508 -224 1048"
-"wait" ".5"
-"light" "350"
-"delay" "2"
-"angle" "90"
-}
-// entity 137
-{
-"classname" "light"
-"origin" "1508 -1284 1048"
-"wait" ".5"
-"light" "350"
-"delay" "2"
-"angle" "90"
-}
-// entity 138
-{
-"classname" "light"
-"origin" "1508 -768 1048"
-"wait" ".5"
-"light" "350"
-"delay" "2"
-"angle" "90"
 }
