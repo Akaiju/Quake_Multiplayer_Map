@@ -3029,7 +3029,7 @@
 // brush 334
 {
 ( 944 -1672 756 ) ( 944 -1816 692 ) ( 944 -1672 692 ) metal5_3 8 52 -0 1 1
-( 1008 -1816 756 ) ( 944 -1816 692 ) ( 944 -1816 756 ) metal5_3 -52 -0 90 1 -1
+( 1008 -1824 756 ) ( 944 -1824 692 ) ( 944 -1824 756 ) metal5_3 -52 -0 90 1 -1
 ( 1008 -1816 692 ) ( 944 -1672 692 ) ( 944 -1816 692 ) metal5_3 8 -0 90 1 -1
 ( 1008 -1816 756 ) ( 944 -1672 756 ) ( 1008 -1672 756 ) metal5_3 8 -0 90 1 -1
 ( 1008 -1744 692 ) ( 944 -1744 756 ) ( 944 -1744 692 ) metal5_3 -52 -0 90 1 -1
@@ -3772,7 +3772,7 @@
 // entity 7
 {
 "classname" "item_rockets"
-"origin" "560 -848 592"
+"origin" "558 -848 592"
 }
 // entity 8
 {
@@ -3792,7 +3792,7 @@
 // entity 11
 {
 "classname" "item_spikes"
-"origin" "176 -1808 -0"
+"origin" "176 -1800 -0"
 }
 // entity 12
 {
@@ -3832,7 +3832,7 @@
 // entity 19
 {
 "classname" "item_spikes"
-"origin" "424 -1032 -96"
+"origin" "424 -1048 -96"
 }
 // entity 20
 {
@@ -3842,7 +3842,7 @@
 // entity 21
 {
 "classname" "item_spikes"
-"origin" "752 -1104 -96"
+"origin" "752 -1120 -96"
 }
 // entity 22
 {
@@ -3853,7 +3853,7 @@
 // entity 23
 {
 "classname" "item_spikes"
-"origin" "1152 -1808 -0"
+"origin" "1152 -1800 -0"
 }
 // entity 24
 {
@@ -3893,17 +3893,17 @@
 // entity 31
 {
 "classname" "item_spikes"
-"origin" "1120 240 -0"
+"origin" "1144 240 -0"
 }
 // entity 32
 {
 "classname" "item_spikes"
-"origin" "384 -1808 -0"
+"origin" "384 -1800 -0"
 }
 // entity 33
 {
 "classname" "item_spikes"
-"origin" "944 -1808 -0"
+"origin" "944 -1800 -0"
 }
 // entity 34
 {
@@ -4360,12 +4360,12 @@
 // entity 91
 {
 "classname" "item_cells"
-"origin" "912 -1812 696"
+"origin" "912 -1804 688"
 }
 // entity 92
 {
 "classname" "item_cells"
-"origin" "464 -1624 688"
+"origin" "464 -1640 688"
 }
 // entity 93
 {
@@ -4491,11 +4491,6 @@
 }
 // entity 107
 {
-"classname" "item_shells"
-"origin" "744 32 688"
-}
-// entity 108
-{
 "classname" "light_torch_small_walltorch"
 "origin" "1520 -24 828"
 "angle" "270"
@@ -4503,7 +4498,7 @@
 "delay" "2"
 "wait" "2"
 }
-// entity 109
+// entity 108
 {
 "classname" "light_torch_small_walltorch"
 "origin" "1520 -1064 828"
@@ -4512,7 +4507,7 @@
 "delay" "2"
 "wait" "2"
 }
-// entity 110
+// entity 109
 {
 "classname" "light_torch_small_walltorch"
 "origin" "1520 -968 828"
@@ -4521,7 +4516,7 @@
 "delay" "2"
 "wait" "2"
 }
-// entity 111
+// entity 110
 {
 "classname" "light_torch_small_walltorch"
 "origin" "1520 -1472 828"
@@ -4530,7 +4525,7 @@
 "delay" "2"
 "wait" "2"
 }
-// entity 112
+// entity 111
 {
 "classname" "light_torch_small_walltorch"
 "origin" "1520 -1568 828"
@@ -4539,7 +4534,7 @@
 "delay" "2"
 "wait" "2"
 }
-// entity 113
+// entity 112
 {
 "classname" "light_torch_small_walltorch"
 "origin" "-160 72 828"
@@ -4548,7 +4543,7 @@
 "delay" "2"
 "wait" "2"
 }
-// entity 114
+// entity 113
 {
 "classname" "light_torch_small_walltorch"
 "origin" "-160 -24 828"
@@ -4557,7 +4552,7 @@
 "delay" "2"
 "wait" "2"
 }
-// entity 115
+// entity 114
 {
 "classname" "light_torch_small_walltorch"
 "origin" "-160 -432 828"
@@ -4566,7 +4561,7 @@
 "delay" "2"
 "wait" "2"
 }
-// entity 116
+// entity 115
 {
 "classname" "light_torch_small_walltorch"
 "origin" "-160 -528 828"
@@ -4575,7 +4570,7 @@
 "delay" "2"
 "wait" "2"
 }
-// entity 117
+// entity 116
 {
 "classname" "light_torch_small_walltorch"
 "origin" "-160 -968 828"
@@ -4584,7 +4579,7 @@
 "delay" "2"
 "wait" "2"
 }
-// entity 118
+// entity 117
 {
 "classname" "light_torch_small_walltorch"
 "origin" "-160 -1064 828"
@@ -4593,7 +4588,7 @@
 "delay" "2"
 "wait" "2"
 }
-// entity 119
+// entity 118
 {
 "classname" "light_torch_small_walltorch"
 "origin" "-160 -1472 828"
@@ -4602,7 +4597,7 @@
 "delay" "2"
 "wait" "2"
 }
-// entity 120
+// entity 119
 {
 "classname" "light_torch_small_walltorch"
 "origin" "-160 -1568 828"
@@ -4611,33 +4606,38 @@
 "delay" "2"
 "wait" "2"
 }
-// entity 121
+// entity 120
 {
 "classname" "item_health"
 "origin" "-48 -384 -296"
 }
-// entity 122
+// entity 121
 {
 "classname" "item_health"
 "origin" "-64 -1088 -296"
 }
-// entity 123
+// entity 122
 {
 "classname" "item_health"
 "origin" "1392 -384 -296"
 }
-// entity 124
+// entity 123
 {
 "classname" "item_health"
 "origin" "1376 -1088 -296"
 }
-// entity 125
+// entity 124
 {
 "classname" "item_health"
 "origin" "-272 -1664 304"
 }
-// entity 126
+// entity 125
 {
 "classname" "item_health"
 "origin" "1584 -1648 304"
+}
+// entity 126
+{
+"classname" "item_shells"
+"origin" "734 32 688"
 }

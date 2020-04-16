@@ -3,16 +3,16 @@ running with 8 threads
 testlevel = 4
 LoadBSPFile: 'layeredreality2.bsp'
 BSP is version 29
-  1065 leafs
-  4375 portals
+  1233 leafs
+  4847 portals
 State file is out of date, will be overwritten
 Calculating Base Vis:
 0....1....2....3....4....5....6....7....8....9....
 Calculating Full Vis:
 0....1....2....3....4....5....6....7....8....9....
-average leafs visible: 766
+average leafs visible: 815
 c_noclip: 0
-c_chains: 926655934
-visdatasize:137012  compressed from 142710
+c_chains: 1466449462
+visdatasize:181107  compressed from 191115
 Writing layeredreality2.bsp as BSP version 29
-852.9 seconds elapsed
+1287.8 seconds elapsed
