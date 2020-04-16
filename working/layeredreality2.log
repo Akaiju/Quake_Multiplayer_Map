@@ -7,7 +7,7 @@ Output file: layeredreality2.bsp
           395 brushes
           127 entities
            56 unique texnames
-          646 texinfo
+          641 texinfo
 
 Opened WAD: C:/Users/jackb/Documents/quake-leveldesign-starterkit-master/wads/START.WAD
 Opened WAD: ../wads/prototype_1_2.wad
@@ -18,7 +18,7 @@ Processing hull 0...
 ---- CSGFaces ----
          2543 brushfaces
          2930 csgfaces
-         2670 mergedfaces
+         2669 mergedfaces
 ---- SolidBSP ----
          3923 split nodes
          1312 solid leafs
@@ -28,8 +28,8 @@ Processing hull 0...
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         9404 leaffaces
-         8180 nodefaces
+         9403 leaffaces
+         8179 nodefaces
 ---- Portalize ----
          2612 vis leafs
          2612 vis clusters
@@ -37,7 +37,7 @@ Processing hull 0...
 ---- FillOutside ----
           538 outleafs
 ---- MergeAll ----
-         2755 mergefaces
+         2754 mergefaces
 ---- SolidBSP ----
          1856 split nodes
           625 solid leafs
@@ -47,16 +47,16 @@ Processing hull 0...
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         6979 leaffaces
-         4930 nodefaces
+         6978 leaffaces
+         4929 nodefaces
 ---- Portalize ----
          1232 vis leafs
          1232 vis clusters
          4840 vis portals
 ---- Tjunc ----
-         4052 world edges
-        16278 edge points
-         4010 edges added by tjunctions
+         4051 world edges
+        16275 edge points
+         4009 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -65,19 +65,19 @@ Processing hull 2...
 ---- WriteBSPFile ----
 Wrote layeredreality2.bsp
          1862 planes            37240
-         6323 vertexes          75876
+         6322 vertexes          75864
          1856 nodes             44544
-          427 texinfo           17080
-         4930 faces             98600
+          422 texinfo           16880
+         4929 faces             98580
          7550 clipnodes         60400
          1233 leafs             34524
-         6979 marksurfaces      13958
-        23328 surfedges         93312
-        11665 edges             46660
+         6978 marksurfaces      13956
+        23324 surfedges         93296
+        11663 edges             46652
            56 textures         501668
               lightdata             0
               visdata               0
               entdata           10799
 
-0.833 seconds elapsed
-Peak memory usage: 35415114 (33.8M)
+0.836 seconds elapsed
+Peak memory usage: 35413208 (33.8M)
