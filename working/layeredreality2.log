@@ -14,49 +14,49 @@ Opened WAD: ../wads/prototype_1_2.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
           395 brushes
-          792 planes
+          791 planes
 ---- CSGFaces ----
          2543 brushfaces
-         2927 csgfaces
-         2668 mergedfaces
+         2930 csgfaces
+         2670 mergedfaces
 ---- SolidBSP ----
-         3926 split nodes
-         1313 solid leafs
-         2472 empty leafs
+         3923 split nodes
+         1312 solid leafs
+         2470 empty leafs
           142 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         9393 leaffaces
-         8168 nodefaces
+         9404 leaffaces
+         8180 nodefaces
 ---- Portalize ----
-         2614 vis leafs
-         2614 vis clusters
-         8671 vis portals
+         2612 vis leafs
+         2612 vis clusters
+         8664 vis portals
 ---- FillOutside ----
           538 outleafs
 ---- MergeAll ----
-         2752 mergefaces
+         2755 mergefaces
 ---- SolidBSP ----
-         1853 split nodes
-          621 solid leafs
-         1199 empty leafs
+         1856 split nodes
+          625 solid leafs
+         1198 empty leafs
            34 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         6987 leaffaces
-         4927 nodefaces
+         6979 leaffaces
+         4930 nodefaces
 ---- Portalize ----
-         1233 vis leafs
-         1233 vis clusters
-         4847 vis portals
+         1232 vis leafs
+         1232 vis clusters
+         4840 vis portals
 ---- Tjunc ----
-         4049 world edges
-        16265 edge points
-         3996 edges added by tjunctions
+         4052 world edges
+        16278 edge points
+         4010 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -64,20 +64,20 @@ Processing hull 1...
 Processing hull 2...
 ---- WriteBSPFile ----
 Wrote layeredreality2.bsp
-         1863 planes            37260
-         6315 vertexes          75780
-         1853 nodes             44472
+         1862 planes            37240
+         6323 vertexes          75876
+         1856 nodes             44544
           427 texinfo           17080
-         4927 faces             98540
+         4930 faces             98600
          7550 clipnodes         60400
-         1234 leafs             34552
-         6987 marksurfaces      13974
-        23302 surfedges         93208
-        11652 edges             46608
+         1233 leafs             34524
+         6979 marksurfaces      13958
+        23328 surfedges         93312
+        11665 edges             46660
            56 textures         501668
               lightdata             0
               visdata               0
-              entdata           10770
+              entdata           10799
 
-0.872 seconds elapsed
-Peak memory usage: 35408986 (33.8M)
+0.833 seconds elapsed
+Peak memory usage: 35415114 (33.8M)
